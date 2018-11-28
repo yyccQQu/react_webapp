@@ -1,0 +1,2 @@
+
+import 'component/common.scss';
